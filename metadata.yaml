@@ -1,0 +1,35 @@
+_repo: Little-Maid-Marian_19988
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19988-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blanchard, Amy Ella
+    alias: Blanchard, Amy E. (Amy Ella)
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '8406'
+    url: http://www.gutenberg.org/2009/agents/8406
+    wikipedia: http://en.wikipedia.org/wiki/Amy_Ella_Blanchard
+description: In this wonderful children's classic, Maid Marian, an orphaned heiress,
+  struggles against scheming, duplicitous relatives for the right to her own lands.
+  Featuring many characters from the tales of Robin Hood, this story gives the legend
+  an interesting spin! This eBook has been specially formatted for today's e-readers
+  ...
+gutenberg_bookshelf:
+- Children's Fiction
+- Christmas
+gutenberg_issued: '2006-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PZ'
+title: Little Maid Marian
+url: http://www.gutenberg.org/ebooks/19988
